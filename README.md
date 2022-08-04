@@ -12,4 +12,4 @@ HTML, CSS, SCSS, LESS, JavaScript, Vue, React, PHP, MySQL, SQL, GIT
 VScode, WebStorm, Git Bash, Todoist, XAMPP
 
 
-[website]: kornoszkarol.com
+[website]: https://kornoszkarol.com
