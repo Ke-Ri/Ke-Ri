@@ -1,6 +1,6 @@
-### Hi there 👋, I`m Karol 
+## Hi there 👋, I`m Karol 
 
-## I am a web developer and project manager
+### I am a web developer and project manager
 - 🌱 I’m currently learning: Vue
 - 📫 How to reach me: --@--.com
 - 🌐 My website: [website][website]
