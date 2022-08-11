@@ -9,7 +9,7 @@
 HTML, CSS, SCSS, LESS, JavaScript, Vue, React, PHP, MySQL, SQL, GIT
 
 ### Tools:
-VScode, WebStorm, Git Bash, Todoist, XAMPP
+VScode, WebStorm, Git Bash, Todoist, XAMPP, Tableau
 
 
 [website]: https://kornoszkarol.com
