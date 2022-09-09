@@ -2,7 +2,7 @@
 
 ### I am a Web developer and Project manager
 - 🌱 I’m currently learning: Vue
-- 📫 How to reach me: --@--.com
+- 📫 How to reach me: kkornosz@heskor.com
 - 🌐 My website: [website][website]
 
 ### Languages:
@@ -12,4 +12,4 @@ HTML, CSS, SCSS, LESS, JavaScript, Vue, React, PHP, MySQL, SQL, GIT
 VScode, WebStorm, Git Bash, Todoist, XAMPP, Tableau
 
 
-[website]: https://kornoszkarol.com
+[website]: https://heskor.com
