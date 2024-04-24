@@ -6,10 +6,10 @@
 - 🌐 My website: [website][website]
 
 ### Languages:
-HTML, CSS, SCSS, LESS, JavaScript, Vue, React, PHP, MySQL, SQL, GIT
+HTML, CSS, SCSS, LESS, JavaScript, Vue, React, PHP, MySQL, SQL, GIT, Bootstrap, Python
 
 ### Tools:
-VScode, WebStorm, Git Bash, Todoist, XAMPP, Tableau
+VScode, WebStorm, Git Bash, Todoist, XAMPP, Tableau, Figma
 
 
 [website]: https://heskor.com
