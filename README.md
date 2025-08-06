@@ -1,14 +1,14 @@
 ## Hi there 👋, I`m Karol 
 
-### I am a Web developer and Project manager
+### I am a Full-Stack Engineer and Project manager
 - 🌱 I’m currently learning: Vue.js & Python
 - 📫 How to reach me: kkornosz@heskor.com
-- 🌐 My website: [website][website]
+- 🌐 My portfolio: [website][website]
 
 ### Languages:
-HTML, CSS, SCSS, LESS, JavaScript, Vue, React, Angular, PHP, MySQL, SQL, GIT, Bootstrap, Python
+Python, PHP, Nuxt, Vue, React, Angular, MySQL, SQL, Bootstrap, LESS, SCSS, HTML, JavaScript
 
 ### Tools:
-WebStorm, PyCharm, VScode, Git Bash, Docker, ChatGPT, Tableau, Jira, Figma
+WebStorm, PyCharm, VScode, Git Bash, Docker, Google Cloud, ChatGPT, Tableau, Jira, Figma
 
 [website]: https://heskor.com
