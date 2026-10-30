@@ -1,7 +1,7 @@
 ## Hi there 👋, I`m Karol 
 
-### I am a Full-Stack Engineer and Project manager
-- 🌱 I’m currently learning: Vue.js & Python
+### I am a Full-Stack Engineer, PM and CyberSecurity Specialist
+- 🌱 I’m currently learning: Nuxt.js & Python
 - 📫 How to reach me: kkornosz@heskor.com
 - 🌐 My portfolio: [website][website]
 
